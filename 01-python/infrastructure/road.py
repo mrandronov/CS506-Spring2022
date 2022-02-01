@@ -1,3 +1,9 @@
 def draw_road():
-    print("road not found")
+    road_string = """
+     ___________
+    |___________|
+    |###########|
+    |___________|
+    """
+    print( road_string )
     return
